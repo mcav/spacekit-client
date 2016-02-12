@@ -1,0 +1,19 @@
+{
+  "name": "SpaceKit",
+  "version": "1.0.0",
+  "description": ":package: the SpaceKit.io client library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacekit/spacekit.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/spacekit/spacekit/issues"
+  },
+  "homepage": "https://github.com/spacekit/spacekit#readme"
+}
